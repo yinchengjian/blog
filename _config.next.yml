@@ -258,7 +258,7 @@ tag_icon: false
 reward_settings:
   # If true, a donate button will be displayed in every article by default.
   enable: true
-  animation: true
+  animation: false
   comment: Buy me a coffee
 
 reward:
@@ -476,7 +476,7 @@ exturl_icon: true
 
 # Google Webmaster tools verification.
 # See: https://developers.google.com/search
-google_site_verification:
+google_site_verification: z6VmtBa5LuD47210ki8suYYbSc1sn261yb937ietj3k
 
 # Bing Webmaster tools verification.
 # See: https://www.bing.com/webmasters
